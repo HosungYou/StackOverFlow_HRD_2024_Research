@@ -1,0 +1,4 @@
+hyperparameter_sensitivity: 하이퍼파라미터 ±10% 변경 시 주요 셀 점수 변화 ≤ 0.5 포인트
+cross_validation_stability: K-fold = 10으로 증가해도 상위 학습 방법 순위 유지
+sample_size_stability: 샘플 크기를 80%로 줄여도 주요 결과 패턴 유지
+alternative_models: Random Forest, XGBoost, LightGBM 모델 간 일관된 결과 확인
